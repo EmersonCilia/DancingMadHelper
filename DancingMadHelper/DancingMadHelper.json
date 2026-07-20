@@ -1,0 +1,12 @@
+{
+  "Author": "Cilia Calyia",
+  "Name": "Dancing Mad Helper",
+  "Punchline": "I have a goldfish memory, may you do too",
+  "Description": "A helper to remember debuffs on Dancing Mad p4",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Kefka Says",
+    "plugin",
+    "Dancing Mad"
+  ]
+}
