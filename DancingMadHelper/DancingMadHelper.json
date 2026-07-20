@@ -1,12 +1,14 @@
 {
-  "Author": "Cilia Calyia",
-  "Name": "Dancing Mad Helper",
-  "Punchline": "I have a goldfish memory, may you do too",
-  "Description": "A helper to remember debuffs on Dancing Mad p4",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "Kefka Says",
-    "plugin",
-    "Dancing Mad"
-  ]
+    "Author": "Cilia Calyia",
+    "Name": "Dancing Mad Helper",
+    "Punchline": "I have a goldfish memory, may you do too",
+    "Description": "A helper to remember debuffs on Dancing Mad p4",
+    "RepoUrl": "https://github.com/EmersonCilia/DancingMadHelper",
+    "IconUrl": "https://raw.githubusercontent.com/EmersonCilia/DancingMadHelper/refs/heads/master/Images/img2.png",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "Kefka Says",
+        "plugin",
+        "Dancing Mad"
+    ]
 }
