@@ -17,6 +17,7 @@
 * Lets you manually mark debuffs as **True** or **Fake**.
 
 
+![Main Window](https://github.com/EmersonCilia/tentativeone/blob/master/Images/img1.png?raw=true)
 ![Main Window](https://github.com/EmersonCilia/tentativeone/blob/master/Images/img.png?raw=true)
 
 ## Commands
