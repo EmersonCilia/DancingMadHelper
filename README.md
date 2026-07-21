@@ -24,3 +24,6 @@
 * `/dmhelper` — Open the plugin window.
 
 ## Installation
+
+
+* `https://raw.githubusercontent.com/EmersonCilia/DancingMadHelper/refs/heads/master/repo.json`
