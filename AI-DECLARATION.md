@@ -2,7 +2,7 @@
 
 [![AI-DECLARATION: pair](https://img.shields.io/badge/䷼%20AI--DECLARATION-pair-ffedd5?labelColor=ffedd5)](https://ai-declaration.md)
 ---
-version: "0.0.0.1"
+version: "1.0.0.1"
 level: pair
 ---
 
